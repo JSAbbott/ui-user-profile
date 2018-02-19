@@ -1,0 +1,106 @@
+body {
+    height: 100%
+    padding: 0px;
+    margin: 0px;
+    font-family: "Lato", sans-serif !important;
+    background-image: url(img/china.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+}
+
+#container {
+    background-color: #ffffff;
+    height: 665px;
+    width: 375px;
+    margin: 0 auto;
+    margin-top: 100px;
+}
+
+#space {
+    height: 25px;
+    width: 100%;
+}
+
+.avatar { 
+    margin: 0 auto;
+    background-image: url(img/bai.jpg);
+    height: 120px;
+    width: 120px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    border-radius: 50%;
+}
+
+.info {    
+    
+}
+
+#name {
+    font-family: 'Oswald', sans-serif !important;
+    color: #8d8d8d;
+    font-size: 36pt;
+    text-align: center;
+    text-transform: uppercase;
+    padding-top: 15px;
+    margin-bottom: 0px;
+}
+
+#job {
+    font-family: 'Oswald', sans-serif !important;
+    color: #8d8d8d;
+    font-size: 20pt;
+    text-align: center;
+    text-transform: uppercase;
+    margin-bottom: 0px;
+}
+
+#location {
+    font-family: 'Oswald', sans-serif !important;
+    color: #a7a7a7;
+    font-size: 18pt;
+    text-align: center;
+    text-transform: uppercase;
+    padding-top: 20px;
+    margin-bottom: 0px;
+}
+
+#followers {
+    font-family: 'Oswald', sans-serif !important;
+    color: #a7a7a7;
+    font-size: 16pt;
+    text-align: center;
+    text-transform: uppercase;
+    padding-top: 20px;
+    margin-bottom: 0px;
+}
+
+hr {
+    color: #676767;
+    width: 80%;
+}
+
+#bio {
+    font-family: "Lato", sans-serif !important;
+    color: #a7a7a7;
+    font-size: 12pt;
+    text-align: center;
+    text-transform: uppercase;
+    padding-top: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-bottom: 0px;
+}
+
+.socialMedia {
+    margin: 0 auto;
+    margin-top: 25px;
+    padding-top: 25px;
+    text-align: center;
+}
+
+.fab {
+    color: #676767;
+    font-size: 20pt;
+}
